@@ -1,5 +1,5 @@
-title: asiagorczyca's photo gallery 
+title: asiagorczyca's ranking of sailing trips
 description: Just a website made for an assignment 
-remote_theme: jekyll-theme-minimal@1.0.0
+remote_theme: jekyll/minima@v2.5.1
 plugins:
 - jekyll-remote-theme
