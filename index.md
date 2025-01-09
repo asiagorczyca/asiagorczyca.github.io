@@ -1,3 +1,5 @@
+# Ranking of all my sailing trips
+
 ## June of 2024
 ![june](june.JPEG)
 ### Szczecin -> Svaneke
