@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
 title: asiagorczyca's homepage
 description: Just a website made for an assignment 
+remote_theme: pages-themes/minima
+plugins:
+- jekyll-remote-theme
